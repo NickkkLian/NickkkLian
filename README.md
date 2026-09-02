@@ -24,6 +24,7 @@ A few things that show up in everything I ship:
 | [**Ghost Job Detection**](https://github.com/NickkkLian/Ghost-Job-Detection-And-Trading-Signal) | A labour-market mispricing signal from job postings kept open with no intent to hire — XGBoost + SHAP, GMM regimes, walk-forward backtest (UBC Sauder, team project) | Python, scikit-learn, XGBoost |
 | [**Prof Reference System**](https://github.com/NickkkLian/Prof-Reference-System) | Automates eligibility screening for professor reference letters: student portal, roster import, transcript parsing, email notification | Flask, SQLite |
 | [**SQL-Viz-for-Edu**](https://github.com/NickkkLian/SQL-Viz-for-Edu) | Explore real datasets with plain-English controls while the exact Oracle SQL updates live — built for students who learn SQL better by seeing it | One HTML file, no dependencies |
+| [**Mail Sorter**](https://github.com/NickkkLian/Mail-Sorter) · [demo](https://nickkklian.github.io/Mail-Sorter/?demo=1) | A Gmail triage board with no server: a scheduled Action labels new mail from sender and subject only — never the body — and only ever adds a label, never deletes, archives or marks as read | GitHub Actions cron, IMAP + app password, Claude Haiku, two JSON files as the database |
 
 ## How I work
 
