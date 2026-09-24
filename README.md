@@ -8,11 +8,11 @@ myself; the public repos are the ones that turned out to be worth showing.
 
 **Portfolio:** [Nick-Lian-Portfolio.pdf](./Nick-Lian-Portfolio.pdf) · **Email:** [nicklian0315@gmail.com](mailto:nicklian0315@gmail.com)
 
-A few things that show up in everything I ship:
+A few things that show up in what I ship:
 
 - **Zero-cost, zero-ops by default** — public data, static hosting, standard libraries, and a
   scheduled script instead of a server.
-- **Guards for the failures that actually happened** — every pipeline here carries a fix with the
+- **Guards for the failures that actually happened** — most projects here carry a fix with the
   incident that caused it written next to it.
 - **Measured, not assumed** — thresholds come from data, hypotheses get tested against the full
   sample, and a negative result is recorded rather than deleted.
