@@ -6,7 +6,7 @@ I build small, complete systems end to end — data pipelines, automation, and s
 that run for months with nothing to maintain. Most of what's here started as a tool I needed
 myself; the public repos are the ones that turned out to be worth showing.
 
-**Portfolio:** [Nick-Lian-Portfolio.pdf](./Nick-Lian-Portfolio.pdf) · **Email:** [nicklian0315@gmail.com](mailto:nicklian0315@gmail.com)
+**Portfolio:** [Nick-Lian-Portfolio.pdf](./Nick-Lian-Portfolio.pdf) · **Email:** [nicklian0315@gmail.com](mailto:nicklian0315@gmail.com) · **Website:** [nickkk.com](https://nickkk.com)
 
 A few things that show up in what I ship:
 
