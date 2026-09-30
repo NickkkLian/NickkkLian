@@ -32,6 +32,8 @@ A few things that show up in what I ship:
 | [**Query Mirror**](https://github.com/NickkkLian/SQL-Viz-for-Edu) · [demo](https://nickkklian.github.io/SQL-Viz-for-Edu/) | Every click becomes the SQL behind it — practice is graded on results, not wording. | Vanilla JS, sql.js (SQLite in WebAssembly) vendored in the repo, no build step or server |
 | [**Headersort**](https://github.com/NickkkLian/Mail-Sorter) · [demo](https://nickkklian.github.io/Mail-Sorter/?demo=1) | Gmail triage that reads only sender and subject — and only adds labels. | GitHub Actions cron, IMAP + app password, Claude Haiku, two JSON files as the database |
 
+**Agent skills:** [nickkk-skills](https://github.com/NickkkLian/nickkk-skills) — skills for Claude Code, tested in Codex too, that make something new or stop an agent's "done, tested" from being taken on faith.
+
 ## How I work
 
 - Python and JavaScript, mostly without frameworks; SQL; the GitHub API as a free database more
