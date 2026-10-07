@@ -2,7 +2,7 @@
 
 ![Nick Lian](.github/header.png)
 
-I build small, complete systems end to end — data pipelines, automation, and single-file web apps
+I build small, complete systems end to end — data pipelines, automation, and small web apps
 that run for months with nothing to maintain. Most of what's here started as a tool I needed
 myself; the public repos are the ones that turned out to be worth showing.
 
