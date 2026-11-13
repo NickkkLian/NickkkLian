@@ -2,7 +2,7 @@
 
 I build small, complete systems end to end — data pipelines, automation, and small web apps that run for months with
 nothing to maintain. Most of what's here started as a tool I needed myself, and ten of the projects below have a live
-page you can open now. Start with [**Query Mirror**](https://nickkklian.github.io/SQL-Viz-for-Edu/?db=movies&tables=film%2Cdirector&q=eyJjIjpbImZpX3RpdGxlIiwiZmlfeWVhciIsImZpX3JhdGluZyIsImZpX2dlbnJlIiwiZGlfbmFtZSIsImNsX2NvbnRyaWIiXSwiZiI6W1siZmlfcmF0aW5nIiwiaXMgYXQgbGVhc3QiLCI4Il1dLCJzIjpbImZpX3JhdGluZyIsIkRFU0MiXX0) (every click becomes the SQL behind it),
+page you can open now. Start with [**Query Mirror**](https://nickkklian.github.io/SQL-Viz-for-Edu/?db=movies&tables=film%2Cdirector&q=eyJjIjpbImZpX3RpdGxlIiwiZmlfeWVhciIsImZpX3JhdGluZyIsImRpX25hbWUiLCJjbF9jb250cmliIl0sImYiOltbImZpX3JhdGluZyIsImlzIGF0IGxlYXN0IiwiOCJdXSwicyI6WyJmaV9yYXRpbmciLCJERVNDIl19) (every click becomes the SQL behind it),
 [**Scholar Outflow Lab**](https://nickkklian.github.io/Scholar-Outflow-Lab/) (where researchers from 13 countries ended up) or
 [**Bill Bench**](https://nickkklian.github.io/bill-categoriser/?demo=1) (clean, categorise and reconcile a year of bills in the browser).
 
@@ -12,7 +12,7 @@ page you can open now. Start with [**Query Mirror**](https://nickkklian.github.i
 
 | | What it is | Built with |
 |---|---|---|
-| [**Query Mirror**](https://github.com/NickkkLian/SQL-Viz-for-Edu) · [demo](https://nickkklian.github.io/SQL-Viz-for-Edu/?db=movies&tables=film%2Cdirector&q=eyJjIjpbImZpX3RpdGxlIiwiZmlfeWVhciIsImZpX3JhdGluZyIsImZpX2dlbnJlIiwiZGlfbmFtZSIsImNsX2NvbnRyaWIiXSwiZiI6W1siZmlfcmF0aW5nIiwiaXMgYXQgbGVhc3QiLCI4Il1dLCJzIjpbImZpX3JhdGluZyIsIkRFU0MiXX0) | Every click becomes the SQL behind it — practice is graded on results, not wording. | Vanilla JS, sql.js (SQLite in WebAssembly) vendored in the repo, no build step or server |
+| [**Query Mirror**](https://github.com/NickkkLian/SQL-Viz-for-Edu) · [demo](https://nickkklian.github.io/SQL-Viz-for-Edu/?db=movies&tables=film%2Cdirector&q=eyJjIjpbImZpX3RpdGxlIiwiZmlfeWVhciIsImZpX3JhdGluZyIsImRpX25hbWUiLCJjbF9jb250cmliIl0sImYiOltbImZpX3JhdGluZyIsImlzIGF0IGxlYXN0IiwiOCJdXSwicyI6WyJmaV9yYXRpbmciLCJERVNDIl19) | Every click becomes the SQL behind it — practice is graded on results, not wording. | Vanilla JS, sql.js (SQLite in WebAssembly) vendored in the repo, no build step or server |
 | [**Scholar Outflow Lab**](https://github.com/NickkkLian/Scholar-Outflow-Lab) · [live](https://nickkklian.github.io/Scholar-Outflow-Lab/) | Where researchers from 13 countries ended up, and how much that depends on the country they came from. | Python stdlib, OpenAlex (CC0), a static page, launchd |
 | [**Bill Bench**](https://github.com/NickkkLian/bill-categoriser) · [demo](https://nickkklian.github.io/bill-categoriser/?demo=1) | Clean, categorise and reconcile a year of bills in the browser — every row stays traceable. | Python stdlib for the CLI, a static browser workbench, no account or key |
 | [**CallDelta**](https://github.com/NickkkLian/Earnings-Call-Sentiment-Analyser) · [dashboard](https://nickkklian.github.io/Earnings-Call-Sentiment-Analyser/) | How rosy management sounds vs. how sceptical analysts are, scored for each earnings call. | Python, LLM-scored transcripts, residual-return target |
