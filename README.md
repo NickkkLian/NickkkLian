@@ -1,7 +1,5 @@
 # Hi, I'm Nick (Zixi Lian)
 
-![Nick Lian](.github/header.png)
-
 I build small, complete systems end to end — data pipelines, automation, and small web apps that run for months with
 nothing to maintain. Most of what's here started as a tool I needed myself, and nine of the projects below have a live
 page you can open now. Start with [**Query Mirror**](https://nickkklian.github.io/SQL-Viz-for-Edu/) (every click becomes the SQL behind it),
