@@ -1,8 +1,8 @@
 # Hi, I'm Nick (Zixi Lian)
 
 I build small, complete systems end to end — data pipelines, automation, and small web apps that run for months with
-nothing to maintain. Most of what's here started as a tool I needed myself, and nine of the projects below have a live
-page you can open now. Start with [**Query Mirror**](https://nickkklian.github.io/SQL-Viz-for-Edu/) (every click becomes the SQL behind it),
+nothing to maintain. Most of what's here started as a tool I needed myself, and ten of the projects below have a live
+page you can open now. Start with [**Query Mirror**](https://nickkklian.github.io/SQL-Viz-for-Edu/?db=movies&tables=film%2Cdirector&q=eyJjIjpbImZpX3RpdGxlIiwiZmlfeWVhciIsImZpX3JhdGluZyIsImZpX2dlbnJlIiwiZGlfbmFtZSIsImNsX2NvbnRyaWIiXSwiZiI6W1siZmlfcmF0aW5nIiwiaXMgYXQgbGVhc3QiLCI4Il1dLCJzIjpbImZpX3JhdGluZyIsIkRFU0MiXX0) (every click becomes the SQL behind it),
 [**Scholar Outflow Lab**](https://nickkklian.github.io/Scholar-Outflow-Lab/) (where researchers from 13 countries ended up) or
 [**Bill Bench**](https://nickkklian.github.io/bill-categoriser/?demo=1) (clean, categorise and reconcile a year of bills in the browser).
 
@@ -21,6 +21,7 @@ page you can open now. Start with [**Query Mirror**](https://nickkklian.github.i
 | [**Vacancy Signal**](https://github.com/NickkkLian/Ghost-Job-Detection-And-Trading-Signal) · [results](https://nickkklian.github.io/Ghost-Job-Detection-And-Trading-Signal/) | Ghost job postings as an equity signal: a score for 2,919 US public firms from 310,821 postings. (UBC Sauder, team project) | Python, scikit-learn, XGBoost |
 | [**Letterkeep**](https://github.com/NickkkLian/Prof-Reference-System) · [tour](https://nickkklian.github.io/Prof-Reference-System/) | Students check whether they qualify for a reference letter before they ask — the roster, the grades and the files never leave the professor's own machine. | Flask, SQLite |
 | [**Headersort**](https://github.com/NickkkLian/Mail-Sorter) · [demo](https://nickkklian.github.io/Mail-Sorter/?demo=1) | Sort mail worth keeping, review outdated mail before cleanup, archive with undo. | GitHub Actions cron, IMAP + app password, Claude Sonnet 5.5 by default, JSON files in a private repo as the database |
+| [**Build Check-in**](https://github.com/NickkkLian/build-check-in) · [guide](https://nickkklian.github.io/build-check-in/) | Turn a coding project's history into questions, a cited instructor key and note drafts. | A Claude skill, Python standard library |
 
 **Agent skills:** [nickkk-skills](https://github.com/NickkkLian/nickkk-skills) — 14 skills for Claude Code and OpenAI Codex that turn a spreadsheet, a formula or one sentence into a page you can open, plus checks for an agent's work and guards for a repository.
 
