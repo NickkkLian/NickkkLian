@@ -33,10 +33,9 @@ page you can open now. Start with [**Query Mirror**](https://nickkklian.github.i
 
 ## How I work
 
-- Python and JavaScript, mostly without frameworks; SQL; the GitHub API as a free database.
-- Zero-cost, zero-ops by default: public data, static hosting, standard libraries, and a
-  scheduled script instead of a server.
-- Building with Claude: structured outputs, vision and agent workflows.
-- Chinese (native) and English (fluent).
+- Python, JavaScript (including React) and SQL; Flask, SQLite, GitHub Actions and n8n.
+- LLMs from several providers (Claude, OpenAI, Gemini, local models through Ollama): structured
+  outputs, vision and agent workflows, and choosing a model by testing several on labelled examples.
+- Mandarin and Cantonese (native), English (fluent).
 
 Based in Canada, working with North American hours.
