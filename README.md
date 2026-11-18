@@ -33,13 +33,10 @@ page you can open now. Start with [**Query Mirror**](https://nickkklian.github.i
 
 ## How I work
 
-- Python and JavaScript, mostly without frameworks; SQL; the GitHub API as a free database more
-  often than I'd admit.
+- Python and JavaScript, mostly without frameworks; SQL; the GitHub API as a free database.
 - Zero-cost, zero-ops by default: public data, static hosting, standard libraries, and a
   scheduled script instead of a server.
-- Comfortable driving Claude end to end — prompts with structured outputs, vision, and agents that
-  do real work.
-- English and Chinese, both native-level working languages; everything I publish is bilingual or
-  English-first.
+- Building with Claude: structured outputs, vision and agent workflows.
+- Chinese (native) and English (fluent).
 
 Based in Canada, working with North American hours.
